@@ -1,0 +1,6 @@
+{
+  "name": "Goa Cab N Taxi Services",
+  "description": "Premium cab booking, airport transfers, sightseeing tours and travel services in Goa by Tanveer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
